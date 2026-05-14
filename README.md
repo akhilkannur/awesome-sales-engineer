@@ -113,6 +113,9 @@ Develop storytelling skills to engage customers and win deals.
 
 Explore essential tools and platforms for Sales Engineers.
 
+- **Registry & Discovery**
+    - [Salestools Club](https://salestools.club) - A technical registry and comparison engine for 300+ sales APIs and MCP servers, featuring verified starter prompts for AI agents.
+
 - **Demo Tools**
     - [Demodesk](https://www.demodesk.com/)
     - [Zoom](https://zoom.us/)
